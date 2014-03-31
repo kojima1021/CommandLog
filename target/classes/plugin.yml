@@ -1,0 +1,4 @@
+name: CommandLog
+main: net.bukkit_plugin.kojima1021.CommandLog.CommandLog
+version: 1.0.0
+author: kojima1021
